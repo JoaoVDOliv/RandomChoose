@@ -1,0 +1,14 @@
+D:\Projects\ChooseRandom\ChooseRandom\ChooseRandom\bin\Debug\net8.0\ChooseRandom.exe
+D:\Projects\ChooseRandom\ChooseRandom\ChooseRandom\bin\Debug\net8.0\ChooseRandom.deps.json
+D:\Projects\ChooseRandom\ChooseRandom\ChooseRandom\bin\Debug\net8.0\ChooseRandom.runtimeconfig.json
+D:\Projects\ChooseRandom\ChooseRandom\ChooseRandom\bin\Debug\net8.0\ChooseRandom.dll
+D:\Projects\ChooseRandom\ChooseRandom\ChooseRandom\bin\Debug\net8.0\ChooseRandom.pdb
+D:\Projects\ChooseRandom\ChooseRandom\ChooseRandom\obj\Debug\net8.0\ChooseRandom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ChooseRandom\ChooseRandom\ChooseRandom\obj\Debug\net8.0\ChooseRandom.AssemblyInfoInputs.cache
+D:\Projects\ChooseRandom\ChooseRandom\ChooseRandom\obj\Debug\net8.0\ChooseRandom.AssemblyInfo.cs
+D:\Projects\ChooseRandom\ChooseRandom\ChooseRandom\obj\Debug\net8.0\ChooseRandom.csproj.CoreCompileInputs.cache
+D:\Projects\ChooseRandom\ChooseRandom\ChooseRandom\obj\Debug\net8.0\ChooseRandom.dll
+D:\Projects\ChooseRandom\ChooseRandom\ChooseRandom\obj\Debug\net8.0\refint\ChooseRandom.dll
+D:\Projects\ChooseRandom\ChooseRandom\ChooseRandom\obj\Debug\net8.0\ChooseRandom.pdb
+D:\Projects\ChooseRandom\ChooseRandom\ChooseRandom\obj\Debug\net8.0\ChooseRandom.genruntimeconfig.cache
+D:\Projects\ChooseRandom\ChooseRandom\ChooseRandom\obj\Debug\net8.0\ref\ChooseRandom.dll
